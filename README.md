@@ -22,7 +22,7 @@
   <img src="mobile-screenshot.png" alt="Mobile View" width="100%">
 
   <h2>🔗 Live Demo</h2>
-  <p>View the live site here: <a href="#">Advice Generator App</a> (replace `#` with your live deployment URL)</p>
+  <p>View the live site here: <a href="https://natnaelsamuel.github.io/Advice-Generator-Website/">Advice Generator App</a> (replace `#` with your live deployment URL)</p>
 
   <h2>🚀 Features</h2>
   <ul>
